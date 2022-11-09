@@ -776,3 +776,7 @@ document.addEventListener('DOMContentLoaded', function () {
   refreshFn()
   unRefreshFn()
 })
+
+
+console.log('%c\t\t\t\t\n%c\t\t\t\t\n%c\t\t\t\t\t ←── This flag means I can program\n%c\t\t\t\t\n%c\t\t\t\t', 
+'background: #5bcffa;','background: #f5aab9;','background: #0;','background: #f5aab9;','background: #5bcffa;');
