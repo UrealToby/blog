@@ -779,4 +779,4 @@ document.addEventListener('DOMContentLoaded', function () {
 
 // flag~
 console.log('%c\t\t\t\t\n%c\t\t\t\t\n%c\t\t\t\t\t (This flag means who good at programming.)\n%c\t\t\t\t\n%c\t\t\t\t', 
-'background: #5bcffa;','background: #f5aab9;','background: #0;','background: #f5aab9;','background: #5bcffa;');
+'background: #5bcffa;','background: #f5aab9;','background: #FFFFFF;','background: #f5aab9;','background: #5bcffa;');
