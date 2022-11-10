@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tobyprime.top/2022/11/10/OptimizationTheoryAndAlgorithm/%E6%9C%80%E4%BC%98%E5%8C%96%E7%90%86%E8%AE%BA%E4%B8%8E%E7%AE%97%E6%B3%95-%E5%8D%95%E7%BA%AF%E5%BD%A2%E6%B3%95/</loc>
+    
+    <lastmod>2022-11-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://tobyprime.top/2022/11/10/PaperReading/DETR/</loc>
     
     <lastmod>2022-11-10</lastmod>
@@ -47,6 +56,13 @@
 
   
   <url>
+    <loc>https://tobyprime.top/tags/Note/</loc>
+    <lastmod>2022-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://tobyprime.top/tags/Object-Detection/</loc>
     <lastmod>2022-11-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -68,13 +84,6 @@
   </url>
   
   <url>
-    <loc>https://tobyprime.top/tags/Note/</loc>
-    <lastmod>2022-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://tobyprime.top/tags/Object-Tracking/</loc>
     <lastmod>2022-11-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -89,6 +98,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://tobyprime.top/categories/%E6%9C%80%E4%BC%98%E5%8C%96%E7%90%86%E8%AE%BA%E4%B8%8E%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2022-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://tobyprime.top/categories/Paper-Reading/</loc>
