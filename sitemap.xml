@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tobyprime.top/2022/11/11/PaperReading/SiamMask/</loc>
+    
+    <lastmod>2022-11-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tobyprime.top/2022/11/08/PaperReading/SiamRPN/</loc>
+    
+    <lastmod>2022-11-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tobyprime.top/2022/11/08/PaperReading/SA-Siam/</loc>
+    
+    <lastmod>2022-11-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://tobyprime.top/2022/11/10/OptimizationTheoryAndAlgorithm/%E6%9C%80%E4%BC%98%E5%8C%96%E7%90%86%E8%AE%BA%E4%B8%8E%E7%AE%97%E6%B3%95-%E5%8D%95%E7%BA%AF%E5%BD%A2%E6%B3%95/</loc>
     
     <lastmod>2022-11-10</lastmod>
@@ -20,25 +47,7 @@
   </url>
   
   <url>
-    <loc>https://tobyprime.top/2022/11/08/PaperReading/SA-Siam/</loc>
-    
-    <lastmod>2022-11-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://tobyprime.top/link/index.html</loc>
-    
-    <lastmod>2022-11-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://tobyprime.top/2022/11/08/PaperReading/SiamRPN/</loc>
     
     <lastmod>2022-11-09</lastmod>
     
@@ -91,7 +100,7 @@
   </url>
   
   <url>
-    <loc>https://tobyprime.top/tags/Target-Tracking/</loc>
+    <loc>https://tobyprime.top/tags/VOS/</loc>
     <lastmod>2022-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
