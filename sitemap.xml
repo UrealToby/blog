@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tobyprime.top/2022/11/10/PaperReading/DETR/</loc>
+    
+    <lastmod>2022-11-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://tobyprime.top/2022/11/08/PaperReading/SA-Siam/</loc>
     
-    <lastmod>2022-11-09</lastmod>
+    <lastmod>2022-11-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,36 +40,50 @@
 
   <url>
     <loc>https://tobyprime.top/</loc>
-    <lastmod>2022-11-09</lastmod>
+    <lastmod>2022-11-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://tobyprime.top/tags/Target-Tracking/</loc>
-    <lastmod>2022-11-09</lastmod>
+    <loc>https://tobyprime.top/tags/Object-Detection/</loc>
+    <lastmod>2022-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://tobyprime.top/tags/Computer-Vision/</loc>
-    <lastmod>2022-11-09</lastmod>
+    <lastmod>2022-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://tobyprime.top/tags/Deep-Learning/</loc>
-    <lastmod>2022-11-09</lastmod>
+    <lastmod>2022-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://tobyprime.top/tags/Note/</loc>
-    <lastmod>2022-11-09</lastmod>
+    <lastmod>2022-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://tobyprime.top/tags/Object-Tracking/</loc>
+    <lastmod>2022-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://tobyprime.top/tags/Target-Tracking/</loc>
+    <lastmod>2022-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -69,7 +92,7 @@
   
   <url>
     <loc>https://tobyprime.top/categories/Paper-Reading/</loc>
-    <lastmod>2022-11-09</lastmod>
+    <lastmod>2022-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
