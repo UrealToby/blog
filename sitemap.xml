@@ -13,7 +13,7 @@
   <url>
     <loc>https://tobyprime.top/2022/11/11/PaperReading/SiamMask/</loc>
     
-    <lastmod>2022-11-10</lastmod>
+    <lastmod>2022-11-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -81,7 +81,7 @@
   </url>
   
   <url>
-    <loc>https://tobyprime.top/tags/Object-Detection/</loc>
+    <loc>https://tobyprime.top/tags/Object-Tracking/</loc>
     <lastmod>2022-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -102,7 +102,7 @@
   </url>
   
   <url>
-    <loc>https://tobyprime.top/tags/Object-Tracking/</loc>
+    <loc>https://tobyprime.top/tags/Object-Detection/</loc>
     <lastmod>2022-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
