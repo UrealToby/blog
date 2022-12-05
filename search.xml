@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>在 CMAKE 项目中添加编译参数 -pg</title>
+      <link href="/2022/12/06/DailyRecord/%E5%9C%A8-CMAKE-%E9%A1%B9%E7%9B%AE%E4%B8%AD%E6%B7%BB%E5%8A%A0%E7%BC%96%E8%AF%91%E5%8F%82%E6%95%B0-pg/"/>
+      <url>/2022/12/06/DailyRecord/%E5%9C%A8-CMAKE-%E9%A1%B9%E7%9B%AE%E4%B8%AD%E6%B7%BB%E5%8A%A0%E7%BC%96%E8%AF%91%E5%8F%82%E6%95%B0-pg/</url>
+      
+        <content type="html"><![CDATA[<p><code>add_compile_options(&quot;-pg&quot;)</code>无效是因为会被 CMAKE 变量<code>CMAKE_CXX_FLAGS_DEBUG=-p</code>覆盖掉。</p><p>解决方案是直接修改<code>CMAKE_CXX_FLAGS_DEBUG</code>为<code>-pg</code></p><figure class="highlight cmake"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">SET</span>(CMAKE_CXX_FLAGS_DEBUG -pg)</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>SwinTrack</title>
       <link href="/2022/11/11/PaperReading/SwinTrack/"/>
       <url>/2022/11/11/PaperReading/SwinTrack/</url>
